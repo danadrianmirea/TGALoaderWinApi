@@ -1,2 +1,1 @@
-Create a window using WINAPI and display a rectangle on the screen
-"# TGALoaderWinApi" 
+Simple TGA loader made using only Win32API
